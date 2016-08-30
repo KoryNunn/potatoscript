@@ -1,8 +1,8 @@
-# js-js
+# potatoscript
 
 Implementing javascript features that often confuse people.
 
-js-js will implement js features as well as possible, in JS
+potatoscript will implement js features as well as possible, in JS, with potatos
 
 Because we can't use the identifiers used by javascript, we will use our own:
 
