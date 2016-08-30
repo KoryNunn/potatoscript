@@ -1,0 +1,17 @@
+{
+  "name": "js-js",
+  "version": "1.0.0",
+  "description": "Implementing javascript features that often confuse people.",
+  "main": "new.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "^4.6.0"
+  }
+}
