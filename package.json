@@ -13,5 +13,16 @@
   "license": "ISC",
   "devDependencies": {
     "tape": "^4.6.0"
-  }
+  },
+  "dependencies": {
+    "tape": "^4.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KoryNunn/potatoscript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KoryNunn/potatoscript/issues"
+  },
+  "homepage": "https://github.com/KoryNunn/potatoscript#readme"
 }
