@@ -18,9 +18,17 @@ and we will call this potatotypical inheritance.
 2. applies the new object, and the arguments to the `Constructor`
 3. returns the result of the `apply` IF it results in an Object, otherwise returns the new object.
 
-### Potatotypical version:
+### Prototypical version:
+
 [implementation](./new.js)
+
 [test](./test/new.js)
+
+### Potatotypical version:
+
+[implementation](./potatotypicalNew.js)
+
+Tested via tests for the other potatotypical features.
 
 ## prototypical get via key
 
@@ -31,7 +39,9 @@ and we will call this potatotypical inheritance.
 3. If there are no more `__proto__`s in the chain, returns undefined.
 
 ### Potatotypical version:
+
 [implementation](./prototypicalGet.js)
+
 [test](./test/prototypicalGet.js)
 
 ## instanceof
@@ -43,5 +53,7 @@ and we will call this potatotypical inheritance.
 3. If there are no more `__proto__`s in the chain, returns false.
 
 ### Potatotypical version:
+
 [implementation](./instanceof.js)
+
 [test](./test/instanceof.js)
